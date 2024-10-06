@@ -1,6 +1,6 @@
 document.getElementById("btn").addEventListener("click", Function)
-    var dice = document.createElement("img")
-    dice.src = "dice.gif";
+    var diceContainer = document.createElement("gif")
+    dice.src = "rollingdice.gif";
     document.getElementById("diceContainer").appendChild(dice);
 
     var number = (Math.random() * 10) +1;
