@@ -1,4 +1,4 @@
-document.getElementById("btn").addEventListener("click", Function)
+document.getElementById("gif").addEventListener("click", Function)
     var diceContainer = document.createElement("gif")
     dice.src = "rollingdice.gif";
     document.getElementById("diceContainer").appendChild(dice);
